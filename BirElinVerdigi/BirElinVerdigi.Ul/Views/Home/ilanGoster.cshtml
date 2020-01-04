@@ -1,0 +1,110 @@
+﻿@model List<BirElinVerdigi.Ul.Models.ilanGosterProcViewModel>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+
+<br />
+<br />
+
+
+<div class="container">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-2">
+
+                <ul class="nav nav-sidebar">
+
+                    <li>
+                        <div class="sidebar_list">
+                            <p>KATEGORİLER</p>
+                            <ul class="list-unstyled" id="category">
+                                <li>
+                                    <input id="yemek" value="1" type="checkbox">
+                                    <span>YEMEK</span>
+                                </li>
+                                <li>
+                                    <input id="esya" value="2" type="checkbox">
+                                    <span>EŞYA</span>
+                                </li>
+                                <li>
+                                    <input id="giyim" value="3" type="checkbox">
+                                    <span>GİYİM</span>
+                                </li>
+                                <li>
+                                    <input id="hayvan" value="4" type="checkbox">
+                                    <span>HAYVAN</span>
+                                </li>
+                                <li>
+                                    <input id="burs" value="5" type="checkbox">
+                                    <span>BURS</span>
+                                </li>
+                                <li>
+                                    <input id="saglik" value="6" type="checkbox">
+                                    <span>SAĞLIK</span>
+                                </li>
+                                <li>
+                                    <input id="yardim" value="7" type="checkbox">
+                                    <span>YARDIM</span>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </li>
+                    <br />
+                    <li>
+                        <div class="sidebar_list">
+                            <p>İLAN TÜRÜ</p>
+                            <ul class="list-unstyled" id="performance">
+                                <li>
+                                    <input id="bagis" value="1" type="checkbox">
+                                    <span>BAĞIŞLANAN</span>
+                                </li>
+                                <li>
+                                    <input id="istek" value="2" type="checkbox">
+                                    <span>BAĞIŞ İSTEĞİ</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-10">
+
+
+                <div class="card">
+                    <div class="container-fluid">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>İlan Fotoğraf</th>
+                                    <th>İlan Başlık</th>
+                                    <th>ilan Bilgi</th>
+                                    <th>İlan Kategori</th>
+                                    <th>İlan Durum</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var item in Model)
+                                {
+                                <tr>
+                                    <th><img src="~/images/foto4.jpg" class="img-responsive product-img" width="100px" height="100px"></th>
+                                    <td>@item.ilanBaslik</td>
+                                    <td>@item.ilanBilgi</td>
+                                    <td>@item.kategoriAd</td>
+                                    <td>@item.RolAd</td>
+                                    <td>
+                                        <a class="basvur" title=@item.ilanBaslik href="mailto:beyzavtas@hotmail.com">  BASVUR </a>
+                                    </td>
+                                </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

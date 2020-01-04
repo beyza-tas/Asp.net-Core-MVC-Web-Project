@@ -1,0 +1,33 @@
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.deps.json
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfo.cs
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csproj.CopyComplete
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.deps.json
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csproj.CopyComplete
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.deps.json
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.AssemblyInfo.cs
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.csproj.CopyComplete
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Entity\obj\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb

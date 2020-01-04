@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BirElinVerdigi.Business\BirElinVerdigi.Business.csproj" />
+    <ProjectReference Include="..\BirElinVerdigi.DataAccess\BirElinVerdigi.DataAccess.csproj" />
+    <ProjectReference Include="..\BirElinVerdigi.Entity\BirElinVerdigi.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

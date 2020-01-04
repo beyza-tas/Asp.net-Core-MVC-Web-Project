@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" /> @*SABİT*@
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" @*Slider*@
+            crossorigin="anonymous">
+
+    </script>
+    @if (TempData["Mesaj"] != null)
+    {
+        <script>alert('@TempData["Mesaj"]');</script>
+
+    }
+    @if (TempData["hata"] != null)
+    {
+        <script>alert('@TempData["hata"]');</script>
+
+    }
+
+
+
+
+    <link href="~/css/svg-turkiye-haritasi.css" rel="stylesheet" /> @*Haritacssdosyası*@
+
+    <link href="~/css/style2.css" rel="stylesheet" /> @*ilanlarıncss*@
+</head>
+<body>
+
+    @await Html.PartialAsync("_Header")
+    @RenderBody()
+    @await Html.PartialAsync("_Footer")
+
+    <script src="~/js/svg-turkiye-haritasi.js"></script> @*HaritajsDosyası*@
+    <!-- SVG Türkiye Haritası -->
+    <script src="js/svg-turkiye-haritasi.js"></script>
+    <script>
+        svgturkiyeharitasi();
+    </script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script> @*SABİT*@
+    <script src="~/lib/jquery/dist/jquery.js"></script> @*SABİT*@
+
+
+    <script src="~/js/filter.min.js"></script>
+    <script src="~/js/index.js"></script>          @*ilanlarınfonksiyonları*@
+    <script src="~/js/jquery.tinysort.min.js"></script>
+    
+    
+</body>
+</html>
+

@@ -1,0 +1,24 @@
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.deps.json
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfo.cs
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.deps.json
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.deps.json
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.AssemblyInfo.cs
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Core\obj\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb

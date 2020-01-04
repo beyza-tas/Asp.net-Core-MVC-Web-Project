@@ -1,0 +1,45 @@
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.deps.json
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfo.cs
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csproj.CopyComplete
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.deps.json
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfo.cs
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csproj.CopyComplete
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\Yeni klasör (2)\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.deps.json
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.DataAccess.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Entity.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\bin\Debug\netcoreapp3.0\BirElinVerdigi.Core.pdb
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.AssemblyInfo.cs
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.csproj.CopyComplete
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.dll
+C:\Users\beyza\Desktop\ÖDEVSON\BirElinVerdigi\BirElinVerdigi.Business\obj\Debug\netcoreapp3.0\BirElinVerdigi.Business.pdb

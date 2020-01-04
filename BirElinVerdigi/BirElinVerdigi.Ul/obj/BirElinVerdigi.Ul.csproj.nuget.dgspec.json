@@ -1,0 +1,400 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Ul\\BirElinVerdigi.Ul.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\BirElinVerdigi.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\BirElinVerdigi.Business.csproj",
+        "projectName": "BirElinVerdigi.Business",
+        "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\BirElinVerdigi.Business.csproj",
+        "packagesPath": "C:\\Users\\beyza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj"
+              },
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj",
+        "projectName": "BirElinVerdigi.Core",
+        "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj",
+        "packagesPath": "C:\\Users\\beyza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj",
+        "projectName": "BirElinVerdigi.DataAccess",
+        "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\beyza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj"
+              },
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj",
+        "projectName": "BirElinVerdigi.Entity",
+        "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj",
+        "packagesPath": "C:\\Users\\beyza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Core\\BirElinVerdigi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Ul\\BirElinVerdigi.Ul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Ul\\BirElinVerdigi.Ul.csproj",
+        "projectName": "BirElinVerdigi.Ul",
+        "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Ul\\BirElinVerdigi.Ul.csproj",
+        "packagesPath": "C:\\Users\\beyza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Ul\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\BirElinVerdigi.Business.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Business\\BirElinVerdigi.Business.csproj"
+              },
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.DataAccess\\BirElinVerdigi.DataAccess.csproj"
+              },
+              "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj": {
+                "projectPath": "C:\\Users\\beyza\\Desktop\\BirElinVerdigi\\BirElinVerdigi.Entity\\BirElinVerdigi.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
